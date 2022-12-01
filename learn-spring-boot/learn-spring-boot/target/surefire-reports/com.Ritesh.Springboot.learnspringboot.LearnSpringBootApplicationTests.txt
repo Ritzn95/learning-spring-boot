@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.Ritesh.Springboot.learnspringboot.LearnSpringBootApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 90.434 s - in com.Ritesh.Springboot.learnspringboot.LearnSpringBootApplicationTests
